@@ -38,10 +38,6 @@ plugins {
 val schemaVersion = "0.84.0"
 val androidAttribute = Attribute.of("net.devrieze.android", Boolean::class.javaObjectType)
 
-val serializationVersion: String = libs.versions.kotlinx.serialization.get()
-val kotlin_version: String = libs.versions.kotlin.get()
-val jupiterVersion: String = libs.versions.junit5.jupiter.get()
-
 base {
     archivesName.set("xmlschema")
     version = "0.84.0"
@@ -135,7 +131,7 @@ kotlin {
         val jvmMain by getting {
             dependsOn(javaShared)
             dependencies {
-                implementation(kotlin("stdlib-jdk8", kotlin_version))
+                implementation(kotlin("stdlib-jdk8"))
             }
         }
         val jvmTest by getting {
