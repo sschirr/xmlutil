@@ -27,20 +27,20 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
     kotlin("multiplatform")
-    id("kotlinx-serialization")
-    id("maven-publish")
-    id("signing")
-    idea
+    alias(libs.plugins.kotlinSerialization)
+    `maven-publish`
+    signing
     id("org.jetbrains.dokka")
-    id("org.jetbrains.kotlinx.binary-compatibility-validator")
+    idea
+    alias(libs.plugins.binaryValidator)
 }
 
 val schemaVersion = "0.84.0"
 val androidAttribute = Attribute.of("net.devrieze.android", Boolean::class.javaObjectType)
 
-val serializationVersion: String by project
-val kotlin_version: String by project
-val jupiterVersion: String by project
+val serializationVersion: String = libs.versions.kotlinx.serialization.get()
+val kotlin_version: String = libs.versions.kotlin.get()
+val jupiterVersion: String = libs.versions.junit5.jupiter.get()
 
 base {
     archivesName.set("xmlschema")
@@ -71,7 +71,7 @@ kotlin {
             }
             compilations.all {
                 kotlinOptions {
-                    jvmTarget = if (name=="test") "1.8" else "1.6"
+                    jvmTarget = "1.8"
                 }
             }
         }
@@ -111,14 +111,14 @@ kotlin {
             dependencies {
                 implementation(project(":core"))
                 api(project(":serialization"))
-                implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:$serializationVersion")
+                implementation(libs.serialization.core)
             }
         }
         val commonTest by getting {
             dependencies {
                 implementation(kotlin("test"))
                 implementation(kotlin("test-annotations-common"))
-                implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:$serializationVersion")
+                implementation(libs.serialization.json)
             }
         }
         val javaShared by creating {
@@ -134,14 +134,12 @@ kotlin {
         val jvmTest by getting {
             dependencies {
                 implementation(kotlin("test-junit5"))
-                implementation("org.junit.jupiter:junit-jupiter-api:$jupiterVersion")
-
-                implementation("org.xmlunit:xmlunit-core:2.6.0")
+                implementation(libs.junit5.api)
 
                 implementation(kotlin("test-junit5"))
 
-                runtimeOnly("org.junit.jupiter:junit-jupiter-engine:$jupiterVersion")
-                runtimeOnly("com.fasterxml.woodstox:woodstox-core:5.1.0")
+                runtimeOnly(libs.junit5.engine)
+                runtimeOnly(libs.woodstox)
             }
         }
         all {
