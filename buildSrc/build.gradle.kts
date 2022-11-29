@@ -21,7 +21,6 @@
 @file:Suppress("PropertyName")
 
 plugins {
-//    kotlin("jvm") version libs.versions.kotlin
     `kotlin-dsl`
 }
 
@@ -29,16 +28,11 @@ java {
     targetCompatibility = JavaVersion.VERSION_1_8
 }
 
-val kotlinVersion = libs.versions.kotlin.get()
-
 dependencies {
 //    compileOnly("org.jetbrains.kotlin:kotlin-gradle-plugin:$embeddedKotlinVersion")
-    compileOnly("org.jetbrains.kotlin:kotlin-gradle-plugin:$embeddedKotlinVersion")
-    compileOnly("org.jetbrains.kotlin:kotlin-native-utils:$embeddedKotlinVersion")
-    compileOnly("org.jetbrains.dokka:dokka-gradle-plugin:$embeddedKotlinVersion")
-    runtimeOnly("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion")
-    runtimeOnly("org.jetbrains.kotlin:kotlin-native-utils:$kotlinVersion")
-    runtimeOnly("org.jetbrains.dokka:dokka-gradle-plugin:$kotlinVersion")
+    implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:${libs.versions.kotlin.get()}")
+    implementation("org.jetbrains.kotlin:kotlin-native-utils:${libs.versions.kotlin.get()}")
+    implementation("org.jetbrains.dokka:dokka-gradle-plugin:${libs.versions.dokka.get()}")
 }
 
 repositories {
