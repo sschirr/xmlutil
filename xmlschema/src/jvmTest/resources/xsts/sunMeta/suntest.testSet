@@ -27,7 +27,7 @@
         </instanceTest>
         <instanceTest name="test.2.n">
             <instanceDocument xlink:href="../sunData/combined/001/test.2.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -51,22 +51,22 @@
         </instanceTest>
         <instanceTest name="test.2.n">
             <instanceDocument xlink:href="../sunData/combined/002/test.2.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.3.n">
             <instanceDocument xlink:href="../sunData/combined/002/test.3.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.4.n">
             <instanceDocument xlink:href="../sunData/combined/002/test.4.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.5.n">
             <instanceDocument xlink:href="../sunData/combined/002/test.5.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -90,22 +90,22 @@
         </instanceTest>
         <instanceTest name="test.2.n">
             <instanceDocument xlink:href="../sunData/combined/003/test.2.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.3.n">
             <instanceDocument xlink:href="../sunData/combined/003/test.3.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.4.n">
             <instanceDocument xlink:href="../sunData/combined/003/test.4.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.5.n">
             <instanceDocument xlink:href="../sunData/combined/003/test.5.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -129,22 +129,22 @@
         </instanceTest>
         <instanceTest name="test.2.n">
             <instanceDocument xlink:href="../sunData/combined/004/test.2.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.3.n">
             <instanceDocument xlink:href="../sunData/combined/004/test.3.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.4.n">
             <instanceDocument xlink:href="../sunData/combined/004/test.4.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.5.n">
             <instanceDocument xlink:href="../sunData/combined/004/test.5.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -168,22 +168,22 @@
         </instanceTest>
         <instanceTest name="test.2.n">
             <instanceDocument xlink:href="../sunData/combined/005/test.2.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.3.n">
             <instanceDocument xlink:href="../sunData/combined/005/test.3.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.4.n">
             <instanceDocument xlink:href="../sunData/combined/005/test.4.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.5.n">
             <instanceDocument xlink:href="../sunData/combined/005/test.5.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -207,52 +207,52 @@
         </instanceTest>
         <instanceTest name="test.10.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.10.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.11.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.11.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.12.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.12.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.13.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.13.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.14.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.14.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.15.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.15.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.16.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.16.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.17.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.17.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.18.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.18.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.19.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.19.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.2.v">
@@ -262,112 +262,112 @@
         </instanceTest>
         <instanceTest name="test.20.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.20.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.21.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.21.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.22.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.22.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.23.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.23.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.24.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.24.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.25.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.25.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.26.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.26.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.27.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.27.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.28.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.28.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.29.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.29.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.3.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.3.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.30.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.30.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.31.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.31.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.32.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.32.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.33.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.33.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.34.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.34.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.4.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.4.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.5.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.5.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.6.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.6.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.7.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.7.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.8.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.8.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.9.n">
             <instanceDocument xlink:href="../sunData/combined/006/test.9.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -396,32 +396,32 @@
         </instanceTest>
         <instanceTest name="test.2.n">
             <instanceDocument xlink:href="../sunData/combined/007/test.2.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.3.n">
             <instanceDocument xlink:href="../sunData/combined/007/test.3.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.4.n">
             <instanceDocument xlink:href="../sunData/combined/007/test.4.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.5.n">
             <instanceDocument xlink:href="../sunData/combined/007/test.5.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.7.n">
             <instanceDocument xlink:href="../sunData/combined/007/test.7.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.8.n">
             <instanceDocument xlink:href="../sunData/combined/007/test.8.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -440,42 +440,42 @@
         </schemaTest>
         <instanceTest name="test.1.n">
             <instanceDocument xlink:href="../sunData/combined/008/test.1.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.10.n">
             <instanceDocument xlink:href="../sunData/combined/008/test.10.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.11.n">
             <instanceDocument xlink:href="../sunData/combined/008/test.11.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.12.n">
             <instanceDocument xlink:href="../sunData/combined/008/test.12.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.5.n">
             <instanceDocument xlink:href="../sunData/combined/008/test.5.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.7.n">
             <instanceDocument xlink:href="../sunData/combined/008/test.7.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.8.n">
             <instanceDocument xlink:href="../sunData/combined/008/test.8.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.9.n">
             <instanceDocument xlink:href="../sunData/combined/008/test.9.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.2.v">
@@ -514,12 +514,12 @@
         </schemaTest>
         <instanceTest name="test.13.n">
             <instanceDocument xlink:href="../sunData/combined/009/test.13.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.8.n">
             <instanceDocument xlink:href="../sunData/combined/009/test.8.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.1.v">
@@ -598,7 +598,7 @@
         </instanceTest>
         <instanceTest name="test.2.n">
             <instanceDocument xlink:href="../sunData/combined/identity/IdentityTestSuite/001/test.2.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -627,7 +627,7 @@
         </instanceTest>
         <instanceTest name="test.3.n">
             <instanceDocument xlink:href="../sunData/combined/identity/IdentityTestSuite/002/test.3.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -656,7 +656,7 @@
         </instanceTest>
         <instanceTest name="test.3.n">
             <instanceDocument xlink:href="../sunData/combined/identity/IdentityTestSuite/003/test.3.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -680,12 +680,12 @@
         </instanceTest>
         <instanceTest name="test.2.n">
             <instanceDocument xlink:href="../sunData/combined/identity/IdentityTestSuite/004/test.2.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="test.3.n">
             <instanceDocument xlink:href="../sunData/combined/identity/IdentityTestSuite/004/test.3.n.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
     </testGroup>
@@ -704,7 +704,7 @@
         </schemaTest>
         <instanceTest name="idc001.nogen.n00">
             <instanceDocument xlink:href="../sunData/combined/identity/idc001/idc001.nogen.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="idc001.nogen.v00">
@@ -728,7 +728,7 @@
         </annotation>
         <schemaTest name="idc002.e">
             <schemaDocument xlink:href="../sunData/combined/identity/idc002/idc002.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -742,7 +742,7 @@
         </annotation>
         <schemaTest name="idc002b.e">
             <schemaDocument xlink:href="../sunData/combined/identity/idc002b/idc002b.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -756,7 +756,7 @@
         </annotation>
         <schemaTest name="idc003.e">
             <schemaDocument xlink:href="../sunData/combined/identity/idc003/idc003.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -775,22 +775,22 @@
         </schemaTest>
         <instanceTest name="idc004.nogen.n00">
             <instanceDocument xlink:href="../sunData/combined/identity/idc004/idc004.nogen.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="idc004.nogen.n01">
             <instanceDocument xlink:href="../sunData/combined/identity/idc004/idc004.nogen.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="idc004.nogen.n02">
             <instanceDocument xlink:href="../sunData/combined/identity/idc004/idc004.nogen.n02.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="idc004.nogen.n03">
             <instanceDocument xlink:href="../sunData/combined/identity/idc004/idc004.nogen.n03.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="idc004.nogen.v00">
@@ -809,7 +809,7 @@
         </annotation>
         <schemaTest name="idc004a.e">
             <schemaDocument xlink:href="../sunData/combined/identity/idc004a/idc004a.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -828,12 +828,12 @@
         </schemaTest>
         <instanceTest name="idc005.nogen.n00">
             <instanceDocument xlink:href="../sunData/combined/identity/idc005/idc005.nogen.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="idc005.nogen.n01">
             <instanceDocument xlink:href="../sunData/combined/identity/idc005/idc005.nogen.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="idc005.nogen.v00">
@@ -857,12 +857,12 @@
         </schemaTest>
         <instanceTest name="idc006.nogen.n00">
             <instanceDocument xlink:href="../sunData/combined/identity/idc006/idc006.nogen.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="idc006.nogen.n01">
             <instanceDocument xlink:href="../sunData/combined/identity/idc006/idc006.nogen.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="idc006.nogen.v00">
@@ -889,42 +889,42 @@
         </schemaTest>
         <instanceTest name="xsd001.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd001/xsd001.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd001.n01">
             <instanceDocument xlink:href="../sunData/combined/xsd001/xsd001.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd001.n02">
             <instanceDocument xlink:href="../sunData/combined/xsd001/xsd001.n02.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd001.n03">
             <instanceDocument xlink:href="../sunData/combined/xsd001/xsd001.n03.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd001.n04">
             <instanceDocument xlink:href="../sunData/combined/xsd001/xsd001.n04.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd001.n05">
             <instanceDocument xlink:href="../sunData/combined/xsd001/xsd001.n05.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd001.n06">
             <instanceDocument xlink:href="../sunData/combined/xsd001/xsd001.n06.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd001.n07">
             <instanceDocument xlink:href="../sunData/combined/xsd001/xsd001.n07.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd001.v00">
@@ -965,17 +965,17 @@
         </schemaTest>
         <instanceTest name="xsd002.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd002/xsd002.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd002.n01">
             <instanceDocument xlink:href="../sunData/combined/xsd002/xsd002.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd002.n02">
             <instanceDocument xlink:href="../sunData/combined/xsd002/xsd002.n02.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd002.v00">
@@ -999,7 +999,7 @@
         </annotation>
         <schemaTest name="xsd003-1.e">
             <schemaDocument xlink:href="../sunData/combined/xsd003/xsd003-1.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="UnknownXmlFieldException" message="^Could not find a field for name.*\{http://www.w3.org/2001/XMLSchema\}redefine/\{http://www.w3.org/2001/XMLSchema\}element\W"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1013,7 +1013,7 @@
         </annotation>
         <schemaTest name="xsd003-2.e">
             <schemaDocument xlink:href="../sunData/combined/xsd003/xsd003-2.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1047,7 +1047,7 @@
         </annotation>
         <schemaTest name="xsd003b.e">
             <schemaDocument xlink:href="../sunData/combined/xsd003b/xsd003b.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1067,12 +1067,12 @@
         </schemaTest>
         <instanceTest name="xsd003b.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd003b/xsd003b.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd003b.n01">
             <instanceDocument xlink:href="../sunData/combined/xsd003b/xsd003b.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd003b.v00">
@@ -1101,67 +1101,67 @@
         </schemaTest>
         <instanceTest name="xsd004.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n01">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n02">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n02.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n03">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n03.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n04">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n04.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n05">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n05.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n06">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n06.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n07">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n07.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n08">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n08.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n09">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n09.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n10">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n10.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n11">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n11.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.n12">
             <instanceDocument xlink:href="../sunData/combined/xsd004/xsd004.n12.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd004.v00">
@@ -1185,37 +1185,37 @@
         </schemaTest>
         <instanceTest name="xsd005.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd005/xsd005.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd005.n01">
             <instanceDocument xlink:href="../sunData/combined/xsd005/xsd005.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd005.n02">
             <instanceDocument xlink:href="../sunData/combined/xsd005/xsd005.n02.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd005.n03">
             <instanceDocument xlink:href="../sunData/combined/xsd005/xsd005.n03.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd005.n04">
             <instanceDocument xlink:href="../sunData/combined/xsd005/xsd005.n04.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd005.n05">
             <instanceDocument xlink:href="../sunData/combined/xsd005/xsd005.n05.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd005.n06">
             <instanceDocument xlink:href="../sunData/combined/xsd005/xsd005.n06.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd005.v00">
@@ -1239,62 +1239,62 @@
         </schemaTest>
         <instanceTest name="xsd006.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n01">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n02">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n02.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n03">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n03.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n04">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n04.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n05">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n05.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n06">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n06.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n07">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n07.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n08">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n08.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n09">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n09.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n10">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n10.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.n11">
             <instanceDocument xlink:href="../sunData/combined/xsd006/xsd006.n11.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd006.v00">
@@ -1313,7 +1313,7 @@
         </annotation>
         <schemaTest name="xsd007.e">
             <schemaDocument xlink:href="../sunData/combined/xsd007/xsd007.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1332,17 +1332,17 @@
         </schemaTest>
         <instanceTest name="xsd008.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd008/xsd008.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd008.n01">
             <instanceDocument xlink:href="../sunData/combined/xsd008/xsd008.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd008.n02">
             <instanceDocument xlink:href="../sunData/combined/xsd008/xsd008.n02.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd008.v00">
@@ -1361,7 +1361,7 @@
         </annotation>
         <schemaTest name="xsd009.e">
             <schemaDocument xlink:href="../sunData/combined/xsd009/xsd009.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1375,7 +1375,7 @@
         </annotation>
         <schemaTest name="xsd010.e">
             <schemaDocument xlink:href="../sunData/combined/xsd010/xsd010.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1394,27 +1394,27 @@
         </schemaTest>
         <instanceTest name="xsd011.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd011/xsd011.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd011.n01">
             <instanceDocument xlink:href="../sunData/combined/xsd011/xsd011.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd011.n02">
             <instanceDocument xlink:href="../sunData/combined/xsd011/xsd011.n02.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd011.n03">
             <instanceDocument xlink:href="../sunData/combined/xsd011/xsd011.n03.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd011.n04">
             <instanceDocument xlink:href="../sunData/combined/xsd011/xsd011.n04.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd011.v00">
@@ -1438,7 +1438,7 @@
         </schemaTest>
         <instanceTest name="xsd012.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd012/xsd012.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd012.v00">
@@ -1457,7 +1457,7 @@
         </annotation>
         <schemaTest name="xsd013.e">
             <schemaDocument xlink:href="../sunData/combined/xsd013/xsd013.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1471,7 +1471,7 @@
         </annotation>
         <schemaTest name="xsd014.e">
             <schemaDocument xlink:href="../sunData/combined/xsd014/xsd014.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1485,7 +1485,7 @@
         </annotation>
         <schemaTest name="xsd015.e">
             <schemaDocument xlink:href="../sunData/combined/xsd015/xsd015.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1499,7 +1499,7 @@
         </annotation>
         <schemaTest name="xsd016.e">
             <schemaDocument xlink:href="../sunData/combined/xsd016/xsd016.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1513,7 +1513,7 @@
         </annotation>
         <schemaTest name="xsd017.e">
             <schemaDocument xlink:href="../sunData/combined/xsd017/xsd017.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1527,7 +1527,7 @@
         </annotation>
         <schemaTest name="xsd018.e">
             <schemaDocument xlink:href="../sunData/combined/xsd018/xsd018.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1541,7 +1541,7 @@
         </annotation>
         <schemaTest name="xsd019.e">
             <schemaDocument xlink:href="../sunData/combined/xsd019/xsd019.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1555,7 +1555,7 @@
         </annotation>
         <schemaTest name="xsd020-2.e">
             <schemaDocument xlink:href="../sunData/combined/xsd020/xsd020-2.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1569,7 +1569,7 @@
         </annotation>
         <schemaTest name="xsd020-3.e">
             <schemaDocument xlink:href="../sunData/combined/xsd020/xsd020-3.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1583,7 +1583,7 @@
         </annotation>
         <schemaTest name="xsd020-4.e">
             <schemaDocument xlink:href="../sunData/combined/xsd020/xsd020-4.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1597,7 +1597,7 @@
         </annotation>
         <schemaTest name="xsd020.e">
             <schemaDocument xlink:href="../sunData/combined/xsd020/xsd020.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1616,62 +1616,62 @@
         </schemaTest>
         <instanceTest name="xsd021.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n01">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n01.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n02">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n02.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n03">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n03.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n04">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n04.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n05">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n05.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n06">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n06.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n07">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n07.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n08">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n08.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n09">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n09.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n10">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n10.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.n11">
             <instanceDocument xlink:href="../sunData/combined/xsd021/xsd021.n11.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd021.v00">
@@ -1695,7 +1695,7 @@
         </schemaTest>
         <instanceTest name="xsd022.n00">
             <instanceDocument xlink:href="../sunData/combined/xsd022/xsd022.n00.xml"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </instanceTest>
         <instanceTest name="xsd022.v00">
@@ -1714,7 +1714,7 @@
         </annotation>
         <schemaTest name="xsd023.e">
             <schemaDocument xlink:href="../sunData/combined/xsd023/xsd023.e.xsd"/>
-            <expected validity="invalid"/>
+            <expected validity="invalid" exception="xx" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
