@@ -1485,7 +1485,7 @@
         </annotation>
         <schemaTest name="xsd015.e">
             <schemaDocument xlink:href="../sunData/combined/xsd015/xsd015.e.xsd"/>
-            <expected validity="invalid" exception="xx" message="yy"/>
+            <expected validity="invalid" exception="NoSuchElementException" message="^No type with name \{http://www.w3.org/2001/XMLSchema\}abc found"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1499,7 +1499,7 @@
         </annotation>
         <schemaTest name="xsd016.e">
             <schemaDocument xlink:href="../sunData/combined/xsd016/xsd016.e.xsd"/>
-            <expected validity="invalid" exception="xx" message="yy"/>
+            <expected validity="invalid" exception="NoSuchElementException" message="^No type with name \{http://www.w3.org/2001/XMLSchema\}abc found"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1569,7 +1569,7 @@
         </annotation>
         <schemaTest name="xsd020-3.e">
             <schemaDocument xlink:href="../sunData/combined/xsd020/xsd020-3.e.xsd"/>
-            <expected validity="invalid" exception="xx" message="yy"/>
+            <expected validity="invalid" exception="NoSuchElementException" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1583,7 +1583,7 @@
         </annotation>
         <schemaTest name="xsd020-4.e">
             <schemaDocument xlink:href="../sunData/combined/xsd020/xsd020-4.e.xsd"/>
-            <expected validity="invalid" exception="xx" message="yy"/>
+            <expected validity="invalid" exception="NoSuchElementException" message="yy"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
