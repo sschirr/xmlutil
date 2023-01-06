@@ -1313,7 +1313,7 @@
         </annotation>
         <schemaTest name="xsd007.e">
             <schemaDocument xlink:href="../sunData/combined/xsd007/xsd007.e.xsd"/>
-            <expected validity="invalid" exception="xx" message="yy"/>
+            <expected validity="invalid" exception="IllegalArgumentException" message="^Recursive type use in complex content: \{foo\}foo"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
