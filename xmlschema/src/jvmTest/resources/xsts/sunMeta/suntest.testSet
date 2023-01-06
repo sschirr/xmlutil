@@ -1013,7 +1013,7 @@
         </annotation>
         <schemaTest name="xsd003-2.e">
             <schemaDocument xlink:href="../sunData/combined/xsd003/xsd003-2.e.xsd"/>
-            <expected validity="invalid" exception="xx" message="yy"/>
+            <expected validity="invalid" exception="UnknownXmlFieldException" message="^Could not find a field for name.*\{http://www.w3.org/2001/XMLSchema\}redefine/\{http://www.w3.org/2001/XMLSchema\}attribute\W"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1047,7 +1047,7 @@
         </annotation>
         <schemaTest name="xsd003b.e">
             <schemaDocument xlink:href="../sunData/combined/xsd003b/xsd003b.e.xsd"/>
-            <expected validity="invalid" exception="xx" message="yy"/>
+            <expected validity="invalid" exception="IllegalArgumentException" message="^\(In\)direct recursion in type derivation$"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
