@@ -1361,7 +1361,7 @@
         </annotation>
         <schemaTest name="xsd009.e">
             <schemaDocument xlink:href="../sunData/combined/xsd009/xsd009.e.xsd"/>
-            <expected validity="invalid" exception="xx" message="yy"/>
+            <expected validity="invalid" exception="IllegalArgumentException" message="Recursive subsitution group: \{foo\}foo"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
@@ -1375,7 +1375,7 @@
         </annotation>
         <schemaTest name="xsd010.e">
             <schemaDocument xlink:href="../sunData/combined/xsd010/xsd010.e.xsd"/>
-            <expected validity="invalid" exception="xx" message="yy"/>
+            <expected validity="invalid" exception="IllegalArgumentException" message="Recursive subsitution group: \{foo\}foo"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
