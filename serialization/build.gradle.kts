@@ -69,13 +69,14 @@ kotlin {
             }
 
             compilations.all {
-                compileKotlinTaskProvider.configure {
+                compileTaskProvider.configure {
                     kotlinOptions {
                         jvmTarget = "1.8"
 //                        freeCompilerArgs += argJvmDefault
                     }
                 }
                 tasks.named<Jar>("jvmJar") {
+                    duplicatesStrategy = DuplicatesStrategy.WARN
                     manifest {
                         attributes("Automatic-Module-Name" to autoModuleName)
                     }

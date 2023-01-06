@@ -78,6 +78,7 @@ kotlin {
                 }
                 cleanTestTask.dependsOn(tasks.getByName("clean${target.name[0].toUpperCase()}${target.name.substring(1)}Test"))
                 tasks.named<Jar>("jvmJar") {
+                    duplicatesStrategy = DuplicatesStrategy.WARN
                     manifest {
                         attributes("Automatic-Module-Name" to autoModuleName)
                     }
