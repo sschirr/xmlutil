@@ -1047,7 +1047,7 @@
         </annotation>
         <schemaTest name="xsd003b.e">
             <schemaDocument xlink:href="../sunData/combined/xsd003b/xsd003b.e.xsd"/>
-            <expected validity="invalid" exception="IllegalArgumentException" message="^\(In\)direct recursion in type derivation$"/>
+            <expected validity="invalid" exception="IllegalArgumentException" message="^Recursive type use in complex content: \{foo\}complexType$"/>
             <current status="accepted" date="2005-06-21"/>
         </schemaTest>
     </testGroup>
