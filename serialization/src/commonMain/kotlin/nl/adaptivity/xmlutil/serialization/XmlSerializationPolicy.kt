@@ -292,7 +292,8 @@ public open class DefaultXmlSerializationPolicy
         unknownChildHandler = original?.let { orig -> // If there is an original, get from it
             (orig as? DefaultXmlSerializationPolicy)?.unknownChildHandler // take the existing one if present
                 ?: UnknownChildHandler { input, inputKind, descriptor, name, candidates ->
-                    orig.handleUnknownContentRecovering(input, inputKind, descriptor, name,
+                    orig.handleUnknownContentRecovering(
+                        input, inputKind, descriptor, name,
                         candidates as Collection<PolyInfo>
                     )
                 }
@@ -451,15 +452,17 @@ public open class DefaultXmlSerializationPolicy
         return when {
             useName.annotatedName != null -> useName.annotatedName
 
-            outputKind == OutputKind.Attribute -> QName(useName.serialName) // Use non-prefix attributes by default
+            tagParent.elementUseAnnotations.firstOrNull<XmlValue>()?.value == true || // If it is a value
+                    outputKind == OutputKind.Attribute ->
+                QName(useName.serialName) // Use non-prefix attributes by default
 
             serialKind is PrimitiveKind ||
                     serialKind == StructureKind.MAP ||
                     serialKind == StructureKind.LIST ||
                     serialKind == PolymorphicKind.OPEN ||
                     typeNameInfo.serialName == "kotlin.Unit" || // Unit needs a special case
-                    parentSerialKind is PolymorphicKind // child of explict polymorphic uses predefined names
-            -> serialUseNameToQName(useName, parentNamespace)
+                    parentSerialKind is PolymorphicKind -> // child of explict polymorphic uses predefined names
+                serialUseNameToQName(useName, parentNamespace)
 
             typeNameInfo.annotatedName != null -> typeNameInfo.annotatedName
 
